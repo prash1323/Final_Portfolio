@@ -1,4 +1,4 @@
-# Prashant Karn Portfolio
+# Prashant Karn's Portfolio
 
 A modern, responsive, and developer-focused personal portfolio showcasing my projects, technical skills, coding profiles, and experience.
 
