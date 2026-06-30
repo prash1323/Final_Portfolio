@@ -21,14 +21,14 @@ A modern, responsive, and developer-focused personal portfolio showcasing my pro
 - Formspree
 - Vercel
 
-## 📂 Project Structure
+## 📁 Project Structure
+
 portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── resume.pdf
-│   └── images/
+├── portfolio.html
+├── README.md
+├── .gitignore
+└── docs/
+    └── resume.pdf
 
 ## 📬 Contact
 - Email: prashantk.karn05@gmail.com
